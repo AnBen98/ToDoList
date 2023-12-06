@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: large;
+}
+h1 {
+  text-align: center;
+  display: inline;
+  left: 45%;
+  position: relative;
+}
+ul {
+  display: inline-block;
+  display: flex;
+  justify-content: space-evenly;
+}
+ul li {
+  text-decoration: none;
+}
